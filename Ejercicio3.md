@@ -14,7 +14,7 @@
 \vspace*{-1in}
 \begin{figure}[htb]
 \begin{center}
-\includegraphics[width=8cm]{./figuras/logo}
+\includegraphics[width=8cm]{\figuras\logo.jpg}
 \end{center}
 \end{figure}
 
